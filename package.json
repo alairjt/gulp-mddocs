@@ -1,6 +1,6 @@
 {
   "name": "gulp-mddocs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin for building angularJS documentation with Material Design",
   "main": "index.js",
   "scripts": {
